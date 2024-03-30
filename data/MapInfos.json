@@ -12,7 +12,7 @@ null,
 {"id":10,"expanded":false,"name":"S2R1","order":10,"parentId":8,"scrollX":654.6666666666666,"scrollY":358,"quick":false},
 {"id":11,"expanded":false,"name":"S2R2","order":11,"parentId":8,"scrollX":845.4,"scrollY":544.8,"quick":false},
 {"id":12,"expanded":true,"name":"runway3","order":13,"parentId":1,"scrollX":601.1999999999999,"scrollY":627,"quick":false},
-{"id":13,"expanded":false,"name":"boss","order":14,"parentId":12,"scrollX":598.8,"scrollY":655.8,"quick":false},
+{"id":13,"expanded":false,"name":"boss","order":14,"parentId":12,"scrollX":832,"scrollY":656,"quick":false},
 {"id":14,"expanded":false,"name":"S2R3","order":12,"parentId":8,"scrollX":598.8,"scrollY":617.4,"quick":false},
-{"id":15,"expanded":false,"name":"Ending ","order":15,"parentId":0,"scrollX":589.1999999999999,"scrollY":627,"quick":false}
+{"id":15,"expanded":false,"name":"Ending ","order":15,"parentId":0,"scrollX":816,"scrollY":640,"quick":false}
 ]
