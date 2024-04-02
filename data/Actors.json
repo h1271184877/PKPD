@@ -8,5 +8,5 @@ null,
 {"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"凱西","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"埃里歐特","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"羅莎","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"battler2","characterIndex":0,"characterName":"$role1","classId":1,"equips":[1,27,46,2,0],"faceIndex":0,"faceName":"role1","traits":[],"initialLevel":1,"maxLevel":99,"name":"player","nickname":"you","note":"","profile":""}
+{"id":9,"battlerName":"battler2","characterIndex":0,"characterName":"$role1","classId":9,"equips":[1,27,46,2,0],"faceIndex":0,"faceName":"role1","traits":[],"initialLevel":1,"maxLevel":99,"name":"player","nickname":"you","note":"","profile":""}
 ]
